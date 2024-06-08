@@ -4,7 +4,7 @@ Welcome to the my CTF writeups Repository! This is a collection of my solutions 
 
 ## What is this repository for?
 
-This repository aims to serve as a resource for those attempting the CTF challenges I've detailed on here. In each writeup, I aim to explain the underlying concepts behind each challenge in an intuitive and abstract manner.
+This repository aims to serve as a resource for those attempting the CTF challenges I've detailed here. In each writeup, I aim to explain the underlying concepts behind each challenge in an intuitive and abstract manner.
 
 ## Challenges
 
